@@ -1,0 +1,488 @@
+[
+  {
+    "id": 1,
+    "title": "야당",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/1.webp",
+    "rating": 3,
+    "content": "마약 수사 소재를 통해 이야기 전개와 캐릭터 간의 마찰을 돋보인다. 긴장감 넘치는 줄거리와 배우들의 연기가 돋보이는 한국 범죄 스릴러.류해진의 무게감 있는 연기에 박해준, 강하늘의 케미가 돋보여 시청 유발한다.",
+    "createdAt": 1748938229364,
+    "updatedAt": 1749029049038
+  },
+  {
+    "id": 2,
+    "title": "미션 임파서블: 파이널 레코닝",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/2.webp",
+    "rating": 4,
+    "content": "한 마디로 정리하자면 '극강의 스릴과 긴장감'을 모두 잡았다. 현실을 뛰어넘는 액션과 전투씬, 미션이 흥미진진하게 이어져 매 순간이 소름 돋았다.적극 추천해요!",
+    "createdAt": 1749933350168,
+    "updatedAt": 1750193270596
+  },
+  {
+    "id": 3,
+    "title": "미키 17",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/3.webp",
+    "rating": 4,
+    "content": "의 역대급 반전 능글능글! 『미키 18』 흥미진진한 전개가 끌어들임.",
+    "createdAt": 1748962642677,
+    "updatedAt": 1749190450198
+  },
+  {
+    "id": 4,
+    "title": "히트맨2",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/4.webp",
+    "rating": 2,
+    "content": "실종된 암살요원 준의 반란, 화려한 복수 물! 스릴 넘치고 긴장감 있는 전개, 예측 불가능한 스토리. 역동적인 액션과 긴장감 유지.",
+    "createdAt": 1748705827917,
+    "updatedAt": 1748895864075
+  },
+  {
+    "id": 5,
+    "title": "하얼빈",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/5.webp",
+    "rating": 3,
+    "content": "의리 강한 독립군, 안중근의 전쟁포로 사건을 통해 믿음을 시험받는 이야기. 승부수를 띄운 전쟁과 용기, 함께한 독립 의지가 감동적.",
+    "createdAt": 1749572346867,
+    "updatedAt": 1749609508442
+  },
+  {
+    "id": 6,
+    "title": "승부",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/6.webp",
+    "rating": 3,
+    "content": "바둑을 통해 승부사로 거듭나는 이야기. 승부욕과 욕심, 우정과 교감이 얽힌 승부. 예상치 못한 결과에 매료될만한 영화.",
+    "createdAt": 1748888323050,
+    "updatedAt": 1749215924179
+  },
+  {
+    "id": 7,
+    "title": "검은 수녀들",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/7.webp",
+    "rating": 2,
+    "content": "금기를 깨기로 결심한 두 수녀의 위험한 도전. 감동과 긴장을 자아내는 박진감 넘치는 영화. 생명을 위해 펼쳐지는 용기 있는 선택들이 여운 남는다.",
+    "createdAt": 1749392431132,
+    "updatedAt": 1749484401495
+  },
+  {
+    "id": 8,
+    "title": "캡틴 아메리카: 브레이브 뉴 월드",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/8.webp",
+    "rating": 3,
+    "content": "새로운 캡틴 아메리카의 강렬한 액션과 긴장감 넘치는 음모, 세계적인 스케일의 블록버스터 영화. 전투와 우정을 통해 더욱 강해지는 영웅의 이야기가 팬들을 사로잡는다.",
+    "createdAt": 1749395434003,
+    "updatedAt": 1749757525108
+  },
+  {
+    "id": 9,
+    "title": "하이파이브",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/9.webp",
+    "rating": 3,
+    "content": "하이파이브: 삶을 바꾼 초능력! 일상에 색다른 요소와 재미를 더해주는 영화. 다섯 이식자들의 환상적인 모험이 펼쳐진다. 현실적이면서도 유쾌한 이야기. 번뜩이는 아이디어와 유머로 가득찬 작품.",
+    "createdAt": 1749981919359,
+    "updatedAt": 1750400153447
+  },
+  {
+    "id": 10,
+    "title": "A MINECRAFT MOVIE 마인크래프트 무비",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/10.webp",
+    "rating": 2,
+    "content": "모험과 상상이 만난 신비로운 영화. 네모난 현실 '오버월드'에서 벌어지는 다섯 명의 동글이들의 모험이 환상적! 꿈과 현실을 넘나드는 이야기.",
+    "createdAt": 1748822667249,
+    "updatedAt": 1749124424332
+  },
+  {
+    "id": 11,
+    "title": "드래곤 길들이기",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/11.webp",
+    "rating": 4,
+    "content": "감동과 모험이 가득한 드래곤 이야기. 새로운 모험과 감동이 기대된다.",
+    "createdAt": 1749212811507,
+    "updatedAt": 1749413598579
+  },
+  {
+    "id": 12,
+    "title": "썬더볼츠＊",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/12.webp",
+    "rating": 4,
+    "content": "마블 새로운 팀업 액션! 예측불가한 이들의 파워풀한 전투, 스릴 넘치는 임무 수행. 팀워크와 우정으로 세상을 구해라! 협동 히어로들의 화려한 액션에 푹 빠지게 되는 영화.",
+    "createdAt": 1749131366385,
+    "updatedAt": 1749262698884
+  },
+  {
+    "id": 13,
+    "title": "극장판 진격의 거인 완결편 더 라스트 어택",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/13.webp",
+    "rating": 5,
+    "content": "\"날렵한 전개와 거인의 위협 속 생존 본능을 그려낸 강렬한 액션. 엘런의 성장과 우회적인 전개가 긴장감 유지, 결말까지 흥미를 돋우는 극장판 애니메이션. 갈라진 운명, 우정, 복수에 대한 파고들음.\"",
+    "createdAt": 1748814929905,
+    "updatedAt": 1749064131827
+  },
+  {
+    "id": 14,
+    "title": "말할 수 없는 비밀",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/14.webp",
+    "rating": 4,
+    "content": "음악을 통해 사랑을 표현하는 감성적인 로맨스. 비밀에 얽힌 샤오위의 이야기가 마음을 끌어당긴다. 복잡한 삼각관계와 예측불허의 전개가 긴장감을 높인다. 귀감!",
+    "createdAt": 1748878791215,
+    "updatedAt": 1749028840978
+  },
+  {
+    "id": 15,
+    "title": "거룩한 밤: 데몬 헌터스",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/15.webp",
+    "rating": 2,
+    "content": "파워풀한 액션과 오컬트 소재가 화려하게 어우러진 영화. 특히 마동석의 연기가 돋보이며 긴장감을 유지하며 끊임없는 전투가 펼쳐져 끝까지 몰입시킨다. 잔혹하고 스릴 넘치는 액션을 즐기고 싶다면 추천.",
+    "createdAt": 1749566590309,
+    "updatedAt": 1749741622460
+  },
+  {
+    "id": 16,
+    "title": "신명",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/16.webp",
+    "rating": 2,
+    "content": "파격적인 주제, 예기치 못한 전개. 김규리의 연기가 빛을 발하는 영화. 압도적인 서스펜스와 긴장감으로 빠져들게 되는 사이코물. 현실감 넘치고 충격적인 결말까지. 전체적으로 역동적인 스토리 전개가 인상적이다.",
+    "createdAt": 1749156155032,
+    "updatedAt": 1749331274853
+  },
+  {
+    "id": 17,
+    "title": "파과",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/17.webp",
+    "rating": 4,
+    "content": "노화의 문턱에서 타인의 눈 속에 존재의 의미를 발견하는 여성 킬러의 이야기. 살아 있는 모든 것에 대한 연민과 찬사를 담은 소중한 소설.",
+    "createdAt": 1749126627123,
+    "updatedAt": 1749440729299
+  },
+  {
+    "id": 18,
+    "title": "소방관",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/18.webp",
+    "rating": 3,
+    "content": "가족과 사랑, 용기와 희생을 다룬 감동적인 소방관들의 이야기. 팀원들의 의기투합과 위기 속에서의 결의가 인상적. 연기와 스토리가 잘 어우러져 지금도 감동적.",
+    "createdAt": 1749664204821,
+    "updatedAt": 1749796212999
+  },
+  {
+    "id": 19,
+    "title": "퇴마록",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/19.webp",
+    "rating": 2,
+    "content": "탑마검: 에오스의 전쟁\n\n악이 세상을 지배하려는 악의 부활을 막기 위한 퇴마사들의 사투. 긴박한 전개와 강렬한 액션으로 몰입도 높음. 동양적인 비주얼과 복잡한 스토리가 혼란을 초래하지만, 화려한 시각효과와 강렬한 전투씬이 매력적.",
+    "createdAt": 1749377272209,
+    "updatedAt": 1749667169004
+  },
+  {
+    "id": 20,
+    "title": "릴로 & 스티치",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/20.webp",
+    "rating": 4,
+    "content": "영화 시놉시스: 한 소녀가 원치 않는 고군분투 앞에서 자신의 모험을 시작하고, 새로운 우정과 인생의 가르침을 찾아가는 이야기.\n\n리뷰: 감동적이고 잔잔한 이야기. 소녀의 성장과 우정이 따뜻하게 다가왔다. 추천합니다.",
+    "createdAt": 1749068932366,
+    "updatedAt": 1749450361626
+  },
+  {
+    "id": 21,
+    "title": "서브스턴스",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/21.webp",
+    "rating": 4,
+    "content": "여성의 아름다움과 나이에 대한 이야기. 젊어지고 싶은 욕망에 치어 갈망과 욕심이 담긴 영화. 휴머니즘적 메시지가 인상적이다.",
+    "createdAt": 1749823662548,
+    "updatedAt": 1750020540580
+  },
+  {
+    "id": 22,
+    "title": "뽀로로 극장판 바닷속 대모험",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/22.webp",
+    "rating": 4,
+    "content": "액션 가득, 모험 가득! 귀여운 뽀로로와 함께 바다 신비에 도전하는 재미난 영화. 함께라면 무적! 유쾌한 여정이 기대된다.",
+    "createdAt": 1749262005367,
+    "updatedAt": 1749479530183
+  },
+  {
+    "id": 23,
+    "title": "수퍼 소닉3",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/23.webp",
+    "rating": 3,
+    "content": "초고속 히어로 대결! 섀도우 VS 소닉! 화끈한 전투와 액션에 눈도장👊 유쾌한 어드벤처의 시작. 설정과 캐릭터 매력적.",
+    "createdAt": 1749678120563,
+    "updatedAt": 1749737126277
+  },
+  {
+    "id": 24,
+    "title": "콘클라베",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/24.webp",
+    "rating": 4,
+    "content": "의왕적인 권력 다툼 속 녹록지 않는 신념, 갈등과 위기 속에서 보는 교황 후보자들의 다크한 면. 권력의 어둠을 느끼며 한편으로는 홀로남은 단한 사람의 소심함이 안타까웠다.",
+    "createdAt": 1748922942057,
+    "updatedAt": 1749161374057
+  },
+  {
+    "id": 25,
+    "title": "보고타: 마지막 기회의 땅",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/25.webp",
+    "rating": 2,
+    "content": "희망 찾은 한인 이민자의 성공사! 강렬한 연기와 긴장감, 이야기 모두 완벽. 결코 놓칠 수 없는 감동 영화.",
+    "createdAt": 1749008078199,
+    "updatedAt": 1749332532625
+  },
+  {
+    "id": 26,
+    "title": "소주전쟁",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/26.webp",
+    "rating": 3,
+    "content": "국보소주 매각을 둘러싼 소주 전쟁! 이제훈과 유해진의 매력적인 케미가 돋보이는 유쾌한 글로벌 투자 사회 이야기.재미와 감동을 모두 잡은 작품.",
+    "createdAt": 1749592148860,
+    "updatedAt": 1749660235027
+  },
+  {
+    "id": 27,
+    "title": "로비",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/27.webp",
+    "rating": 3,
+    "content": "로빈 윌리엄스의 삶과 죽음을 다룬 영화. 그의 진짜 소원과 이면을 파헤치는 이야기. 팬들에게는 더 깊은 감동을 선사한다.",
+    "createdAt": 1749299550649,
+    "updatedAt": 1749318489041
+  },
+  {
+    "id": 28,
+    "title": "극장판 짱구는 못말려: 우리들의 공룡일기",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/28.webp",
+    "rating": 3,
+    "content": "재미와 감동을 가진 가족 영화. 새로운 친구 나나와 함께 공룡들과의 모험을 펼치는 짱구와 친구들의 이야기. 스릴 넘치는 전투와 감동적인 우정으로 가득한 영화.",
+    "createdAt": 1749141805129,
+    "updatedAt": 1749313008877
+  },
+  {
+    "id": 29,
+    "title": "브로큰",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/29.webp",
+    "rating": 2,
+    "content": "흥미진진한 미스터리 스릴러. 형제의 죽음을 둘러싼 미궁에서 민태의 분노와 추적이 펼쳐진다. 예측불가한 전개와 긴장감 넘치는 연기로 몰입도UP! 형제애와 복수의 이면을 파헤치는 감동적인 이야기.",
+    "createdAt": 1749487276030,
+    "updatedAt": 1749770504429
+  },
+  {
+    "id": 30,
+    "title": "무파사: 라이온 킹",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/30.webp",
+    "rating": 3,
+    "content": "흥미진진한 사자 형제 우애, 위협 속 서로 지켜나가는 모험.간결한 스토리 속 감동과 재미, 그리고 우정의 메시지. (40자)",
+    "createdAt": 1749197997691,
+    "updatedAt": 1749230060853
+  },
+  {
+    "id": 31,
+    "title": "백설공주",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/31.webp",
+    "rating": 4,
+    "content": "화려한 색채와 독창적인 스토리, 백설공주의 모험이 눈부심을 전한다. 왕자의 욕망에 맞선 백설, 강인한 여성상에 박수를 보내고 싶다.",
+    "createdAt": 1749530483964,
+    "updatedAt": 1749883628445
+  },
+  {
+    "id": 32,
+    "title": "위키드",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/32.webp",
+    "rating": 4,
+    "content": "마법과 우정이 만나 궁극의 모험을 끝내는 이야기. 개성 넘치는 주인공들의 성장과 우정이 감동적. 반전과 재미를 잊지 않는 엔딩까지 눈을 뗄 수 없다! 파워풀한 여운 남는 판타지 영화.",
+    "createdAt": 1749580453170,
+    "updatedAt": 1749960509538
+  },
+  {
+    "id": 33,
+    "title": "플로우",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/33.webp",
+    "rating": 4,
+    "content": "흥미진진한 힙합 음악 경연때리스트! 심사위원들의 열정적인 랩 배틀, 극찬과 진실한 음악의 묘미를 담은 영화. 유쾌하고 감동적이다.",
+    "createdAt": 1748819413028,
+    "updatedAt": 1749181907000
+  },
+  {
+    "id": 34,
+    "title": "극장판 포켓몬스터 AG: 뮤와 파동의 용사 루카리오",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/34.webp",
+    "rating": 4,
+    "content": "포켓몬스터의 전설적 모험이 담긴 모험 영화. 개그와 감동이 어우러진 스토리. 팬이라면 꼭 보아야할 작품.",
+    "createdAt": 1749635178708,
+    "updatedAt": 1750046661356
+  },
+  {
+    "id": 35,
+    "title": "모아나 2",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/35.webp",
+    "rating": 3,
+    "content": "바다 속 모험이 판타지와 감동 어우러짐. 멋진 음악과 아름다운 그래픽. 어른도 아이도 함께 즐길 수 있는 애니메이션. 여정이 펼쳐지는 모험에 푹 빠져들게 됨.",
+    "createdAt": 1749892294951,
+    "updatedAt": 1750232492187
+  },
+  {
+    "id": 36,
+    "title": "동화지만 청불입니다",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/36.webp",
+    "rating": 2,
+    "content": "음란물 작가 되기 위한 독특한 여정을 그린 코믹 드라마. 새로운 도전과 자아 발견의 이야기. 신선한 소재와 케미스트리가 돋보이는 영화.",
+    "createdAt": 1748830651868,
+    "updatedAt": 1749088420324
+  },
+  {
+    "id": 37,
+    "title": "그 시절, 우리가 좋아했던 소녀",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/37.webp",
+    "rating": 4,
+    "content": "감성 가득한 청춘 로맨스. 소년의 순수한 사랑, 그리고 시간을 초월한 운명. 눈물 짓게 하는 감동. 진한 사랑이야기.",
+    "createdAt": 1749427696640,
+    "updatedAt": 1749457973982
+  },
+  {
+    "id": 38,
+    "title": "더 폴: 디렉터스 컷",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/38.webp",
+    "rating": 4,
+    "content": "스턴트맨과 소녀의 신비로운 이야기. 미소가 지어지는 황홀한 모험. NO CGI에 강렬한 영상미. 18년만에 부활한 4K 화질. 몰입도 최고!",
+    "createdAt": 1749687466236,
+    "updatedAt": 1749713580871
+  },
+  {
+    "id": 39,
+    "title": "패딩턴: 페루에 가다!",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/39.webp",
+    "rating": 3,
+    "content": "패딩턴 2 - 여전히 사랑스럽고 유쾌한 패딩턴 가족의 모험이 충만한 영화. 아마존 정글에서 벌어지는 미스터리한 모험이 패딩턴의 캐릭터를 재발견하게 해준다. 패딩턴 팬이라면 더욱 사랑스러운 이야기!",
+    "createdAt": 1749280481982,
+    "updatedAt": 1749522066839
+  },
+  {
+    "id": 40,
+    "title": "괜찮아 괜찮아 괜찮아! ",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/40.webp",
+    "rating": 4,
+    "content": "감정의 병을 짊어진 현대인의 사랑, 외상에 집착하며 호들갑 떨던 멘탈 클리닉.튼튼한 감정선과 치유되는 로맨스.",
+    "createdAt": 1748713788135,
+    "updatedAt": 1748989205385
+  },
+  {
+    "id": 41,
+    "title": "러브레터",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/41.webp",
+    "rating": 3,
+    "content": "생존자들의 사랑, 희망, 용기를 그린 따뜻한 감동작. 생명의 소중함과 사랑의 힘을 깨닫게 하는 영화. 전쟁 후 빛나는 사랑 이야기.",
+    "createdAt": 1749055946040,
+    "updatedAt": 1749273734688
+  },
+  {
+    "id": 42,
+    "title": "해피엔드",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/42.webp",
+    "rating": 4,
+    "content": "로랑 가문의 은밀한 비밀, 에브 소녀의 이야기. 가문 내부의 어두운 면이 드러나는 서스펜스. 정서적인 장면과 예측불허의 전개가 긴장감을 고조시킨다.",
+    "createdAt": 1749651301864,
+    "updatedAt": 1750050388474
+  },
+  {
+    "id": 43,
+    "title": "스트리밍",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/43.webp",
+    "rating": 3,
+    "content": "파워풀한 주제와 긴장감 넘치는 전개! 현실과 저편이 교차하는 파셜러티 테마를 다룬 미스테리 스릴러. 혼돈과 공포의 연속으로 끊임없는 긴장감을 선사한다. 생존을 건 라이브 스트리밍에 숨 턱 놓게됨.",
+    "createdAt": 1749253606483,
+    "updatedAt": 1749553555375
+  },
+  {
+    "id": 44,
+    "title": "아마추어",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/44.webp",
+    "rating": 4,
+    "content": "카메라는 모든 것을 말한다. 예술과 진실을 탐구하는 필립의 이야기. 몰입도 높고 생각할 거리를 주는 영화.",
+    "createdAt": 1748855808102,
+    "updatedAt": 1749021543875
+  },
+  {
+    "id": 45,
+    "title": "브루탈리스트",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/45.webp",
+    "rating": 4,
+    "content": "전쟁의 상흔을 담은 건축가 이야기. 현실과 아픔 속에서 빛을 찾는 용기. 감동과 용기를 담은 영화.",
+    "createdAt": 1748931314115,
+    "updatedAt": 1749033006847
+  },
+  {
+    "id": 46,
+    "title": "알사탕",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/46.webp",
+    "rating": 4,
+    "content": "달콤하고 신비로운 마법의 알사탕을 통해 즐거운 모험을 느낄 수 있는 영화. 먹는 순간 진심이 전해지는 따뜻한 이야기.",
+    "createdAt": 1749794771962,
+    "updatedAt": 1750062923266
+  },
+  {
+    "id": 47,
+    "title": "고독한 미식가 더 무비",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/47.webp",
+    "rating": 3,
+    "content": "다양한 나라의 풍경과 사랑스러운 캐릭터들이 등장하는 유쾌한 여행 모험록! 맛과 우정을 찾아 떠난 고로 씨의 이야기가 따뜻한 여운을 남긴다.",
+    "createdAt": 1749303952327,
+    "updatedAt": 1749305029359
+  },
+  {
+    "id": 48,
+    "title": "시빌 워: 분열의 시대",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/48.webp",
+    "rating": 3,
+    "content": "분열된 미국의 내전 속, 대통령 인터뷰를 위해 워싱턴으로 향하는 사람들의 이야기. 생생한 전쟁의 순간을 담은 공포. 현실과 가까운 잔혹함. 휴머니즘을 다시 생각하게 하는 메세지.",
+    "createdAt": 1748988597931,
+    "updatedAt": 1749132589652
+  },
+  {
+    "id": 49,
+    "title": "침범",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/49.webp",
+    "rating": 3,
+    "content": "마음이 아프다. 엄마의 사랑과 자녀에 대한 설움을 그린 영화.더없이 솔직하게 표현해서 더 아픔. 아이랑 연관된 일들을 생각나게 하네요. 함께 보고 싶은 인생작.",
+    "createdAt": 1749589210062,
+    "updatedAt": 1749615331456
+  },
+  {
+    "id": 50,
+    "title": "위플래쉬",
+    "imgUrl": "https://learn-codeit-kr-static.s3.ap-northeast-2.amazonaws.com/react-02-2/moviepedia/50.webp",
+    "rating": 4,
+    "content": "정열 넘치는 음악, 광기 어린 연주자의 이야기. 박자를 맞추는 과정에서 전율을 느낄 수 있었다. 이 영화는 음악과 열정을 사랑하는 이들에게 강력 추천한다.",
+    "createdAt": 1749712809991,
+    "updatedAt": 1750116545724
+  },
+  {
+    "id": 51,
+    "title": "참교육",
+    "imgUrl": "https://images.khan.co.kr/article/r/700xX/2026/06/08/news-p.v1.20260602.47b2f049e8da46a2970bd32033ed1635_P1.webp",
+    "rating": 4,
+    "content": "학교 폭력과 교육 현장의 다양한 문제를 해결하기 위해 특별 조직이 나서는 학원 액션 드라마. 통쾌한 전개와 강렬한 액션, 그리고 교육의 의미를 되짚어보게 하는 사회적 메시지가 돋보이는 작품이다.",
+    "createdAt":  1749712809995,
+    "updatedAt": 1750116545725
+  },
+  {
+    "id": 52,
+    "title": "노무현🐨",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3DVAmJ3B5XdEELLhOktLmg3k1ldpLcf_O4RvkdDljeQ&s=10",
+    "rating": 6,
+    "content": "노무현의 서거 장소는 경상남도 김해 진영읍 봉하마을 인근의 부엉이바위로 알려져 있습니다. 부엉이바위는 봉하마을 사저에서 약 200m 정도 떨어진 봉화산 일대의 바위 지형입니다.다만 이 사건은 많은 사람들에게 큰 슬픔을 남긴 일인 만큼, 구체적인 방법이나 상세한 묘사보다는 역사적 사실 차원에서만 설명하는 것이 적절합니다.",
+    "createdAt": 1747958400000,
+    "updatedAt": 1747958400000
+  },
+  {
+    "id": 53,
+    "title": "체인소맨",
+    "imgUrl": "https://t1.daumcdn.net/brunch/service/user/4k0G/image/doNLqFuGWA0SpJ4kX4DN1UzDIHI.jpg",
+    "rating": 5,
+    "content": "주인공 덴지는 아버지의 (태환이 할아버지 )빚을 갚기 위해 악마 사냥을 하며 가난하게 살아갑니다. 그의 유일한 친구는 전기톱 악마 포치타입니다.어느 날 배신을 당해 목숨을 잃을 위기에 처한 덴지는 포치타와 계약을 맺고, 몸의 일부를 전기톱으로 변형할 수 있는 체인소 맨이 됩니다. 이후 정부 기관의 악마 사냥꾼으로 일하며 다양한 악마들과 싸우게 됩니다",
+    "createdAt": 1749794771962,
+    "updatedAt": 1750062923266
+  },
+  {
+    "id": 56,
+    "title": "눈동자",
+    "imgUrl": "https://i.namu.wiki/i/x9igLZ1JSXbIPBENZlh4w9RXX1ZeorvvTJomdTcbcvyaIY7dniOYEHxJpqRJhbL9nURnkgMgZRTQp4cC8orf2w.webp",
+    "rating": 5,
+    "content": "눈동자는 시력을 점점 잃어가는 사진작가 '서진'이 쌍둥이 동생의 의문스러운 죽음이 자살이 아니라는 것을 직감하고, 진실을 추적하면서 숨겨진 비밀과 마주하게 되는 미스터리 스릴러 영화입니다. 신민아가 쌍둥이 자매 1인 2역을 맡았으며, 점차 시야를 잃어가는 공포와 사건의 진실을 파헤치는 긴장감이 특징입니다.",
+    "createdAt": 1749794771960,
+    "updatedAt": 1749021543875
+  }
+]
